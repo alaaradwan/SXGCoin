@@ -1,0 +1,10 @@
+{
+    "balances": {
+         "NXT-UQLB-Z2C4-CSLS-GNHU7": 30000000000000000,
+	 "NXT-S5ZE-4E3Z-LKZJ-BNKYV": 30000000000000000
+     },
+     "publicKeys": [
+         "3deeaf30a4db84afd0deae78c8206e5627b4fe63020f995920afc86b11ac0732",
+	 "5178cfb44319f5715eb88984f4a676dd98db4982ecf36506b1d017cfc9812b0a"
+     ]
+ }
